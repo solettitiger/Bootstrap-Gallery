@@ -21,7 +21,7 @@ define("IMG_SORT_GALLERY",'up');
 define("IMG_SORT_IMAGES",'up'); 
 
 // titel of gallery (text only)
-define("IMG_TITLE", 'BootstrapGallery'); 
+define("IMG_TITLE", 'Bootstrap-Gallery'); 
 
 // ABOUT: header and body(HTML)
 define("IMG_ABOUT_HEADER", 'About');
@@ -37,11 +37,11 @@ Bootstrap-Gallery uses bootstrap 5 to create a gallery out of files in a directo
 // CONTACT: header and body(HTML)
 define("IMG_CONTACT_HEADER", 'Contact');
 define("IMG_CONTACT_BODY", "
-Get on Github: <a href='https://github.com/solettitiger/BootstrapGallery/'>github.com/solettitiger/BootstrapGallery</a><br>
+Get on Github: <a href='https://github.com/solettitiger/Bootstrap-Gallery/'>github.com/solettitiger/Bootstrap-Gallery</a><br>
 Demo: <a href='http://demo.ebid.at/bilder'>demo.ebid.at/bilder</a><br>
 <br> 
 <i class='fa fa-envelope'></i> &nbsp; <a href='mailto:solettitiger@gmail.com'>solettitiger@gmail.com</a><br>
-<i class='fa fa-globe'></i> &nbsp; <a href='https://www.elektronischesbuero.at' target='_blank'>www.elektronischesbuero.at</a>
+<i class='fa fa-globe'></i> &nbsp; <a href='https://www.elektronischesbuero.at/' target='_blank'>www.elektronischesbuero.at</a>
 ");
 
 //EOF

@@ -4,8 +4,8 @@ Bootstrap-Gallery uses bootstrap 5 to create a gallery out of files in a directo
 
 There are three different pages to view the images:
 - detail1.php provides the overview of the images in the chosen directory and shows the single image as big as possible.
-- detail2.php <i class='fa fa-fast-forward'></i> resizes the images to fit the height of the browser and you can scroll through all the images using the mousewheel.
-- detail3.php <i class='fa fa-eye'></i> fits the image into the browser and you can resize the image with the mousewheel and drag the zoomed-in image for detailed viewing. Zooming and draging can also be made with a mobile device and touchscreen.
+- detail2.php ![alt text](images/ffwd.png) resizes the images to fit the height of the browser and you can scroll through all the images using the mousewheel.
+- detail3.php ![alt text](images/eye.png) fits the image into the browser and you can resize the image with the mousewheel and drag the zoomed-in image for detailed viewing. Zooming and draging can also be made with a mobile device and touchscreen.
 
 
 ## Requirements
@@ -32,7 +32,7 @@ Now copy all your images from your camera to a directory into the /images - fold
 ```
 No nested galleries for now. Maybe someone wants to implement it ;-)
 
-Use cronResizer.php (https://gihub.com/solettitiger/cronResizer) to resize your images. 
+Use cronResizer.php (https://github.com/solettitiger/cronResizer) to resize your images. 
 
 
 ## Demo
